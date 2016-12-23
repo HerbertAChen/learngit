@@ -1,0 +1,4 @@
+git config --global user.name "HerbertAChen"
+git config --global user.email "u8800cgq@gmail.com"
+
+git remote add origin1 u8800cgq@gmail.com:HerbertAChen/learngit.git
