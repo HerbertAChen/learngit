@@ -31,4 +31,4 @@ print x==h #逻辑相等输出true
 print y==k #逻辑相等输出true
 print y==z #逻辑相等输出False
 
-print "Hey %s there." % "you"
+print "Hey %s there." % "you" #%s指代一个字符串
