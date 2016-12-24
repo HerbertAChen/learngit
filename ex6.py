@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 x = "There are %d types of people." % 10
 binary = "binary"
 do_not = "don't"
@@ -17,4 +18,4 @@ print joke_evaluation % hilarious
 w = "This is the left side of..."
 e = "a string with a right side."
 
-print w + e
+print w + e #w字符串和e字符串连在一起显示
