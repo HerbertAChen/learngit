@@ -9,4 +9,4 @@ print 'I "said" do not touch this.'
 print 'I "said" do not touch this.'
 print "why do it show this line only ?"
 print "I'm work at CU"
-#print "我在国企工作"
+#print "我在国企工作."
