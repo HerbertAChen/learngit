@@ -30,3 +30,5 @@ print x==h #逻辑相等输出true
 
 print y==k #逻辑相等输出true
 print y==z #逻辑相等输出False
+
+print "Hey %s there." % "you"
