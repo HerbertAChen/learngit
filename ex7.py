@@ -25,4 +25,4 @@ print end1 + end2 + end3 + end4 + end5 + end6, end7 + end8 + end9 + end10 + end1
 print end1 * 10
 #print "Its fleece was white as %s." * 10  % 'snow' #错误是因为* 10的位置不对，如下面两条:
 print "Its fleece was white as ." * 10
-print "Its fleece was white as %s."  % 'snow' * 10 #放在后面才行。
+print "Its fleece was white as %s."  % 'snow' * 10 #放在后面才行
