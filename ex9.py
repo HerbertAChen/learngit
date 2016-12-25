@@ -13,3 +13,5 @@ We'll be able to type as much as we like.
 Even 4 lines if we want, or 5, or 6.
 """
 #这里的3个引号对是不能增加和删除的。
+
+print days , " %r \n"  % months #That's how %r formatting works; it prints it the way you wrote it (or close to it). It's the "raw" format for debugging.
